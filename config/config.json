@@ -1,8 +1,8 @@
 {
-    "token": "your_telegram_bot_token",
-    "channel_id": "your_telegram_chat_id",
-    "search_terms": ["ralph lauren", "nike"],
+    "token": "5143374743:AAG45703O8ABDzsXtil-XqKMw2dErcQTFjg",
+    "channel_id": "1594999501",
+    "search_terms": ["Koszula lniana", "lniana koszula"],
     "refresh_delay": 3,
     "max_images_per_post": 4,
-    "countries": [".de", ".it", ".fr"]
+    "countries": [".pl"]
 }
